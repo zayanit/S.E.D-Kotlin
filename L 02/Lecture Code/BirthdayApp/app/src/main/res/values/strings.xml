@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lecture1_androidstudio</string>
+    <string name="birth_msg">Happy Birthday Sam !</string>
+</resources>
